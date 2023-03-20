@@ -5,6 +5,12 @@ This computational model was developed and submitted to Dakota State University 
 
 The Cyber Operations Performance Computational Model is designed to be used alongside the [Cyber Operations Self-Efficacy Scales (COSES)](https://form.jotform.com/230343475113447) (publication pending).  The COSES provides the model users a behavioral input of operator efficacy used to align simulation results with real-world operator behavioral input.  While this input can be simulated or estimated, use of the scales is highly recommended.
 
+The Cyber Operations Performance Computational Model:
+
+![Cyber Ops ABM image](https://github.com/Bbecote/Cyber_Ops_Performance_Framework/blob/main/images/Model_Start.png "Cyber Ops Model at start up, default parameters")
+
+![Cyber Ops ABM image](https://github.com/Bbecote/Cyber_Ops_Performance_Framework/blob/main/images/Model_Step20.png "Cyber Ops Model at step 20, default parameters")
+
 
 # Features
 * Easy to use assessment tool of real-world cyber operations.
@@ -15,6 +21,16 @@ The Cyber Operations Performance Computational Model is designed to be used alon
 
 # Using the Cyber Operations Performance Agent-Based Model
 * Users who want to install and run the model locally can pull the cyber_performance python script and reference [Mesa's Documentation](https://mesa.readthedocs.io/en/stable/) for framework installation.
+
+Once Mesa is installed, run the computational model from the command line within the cyber_performance folder.  To run a single simulation with dashboard visualization:
+
+`python3 run.py`
+
+To run batch simulations (no dashboard):
+
+`python3 batch.py`
+
+Edit the batch.py file to update the simulation parameters desired for batch simulations.
 
 * The model will also be hosted online for limited use at (Link Pending).
 
