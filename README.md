@@ -3,7 +3,7 @@ An Agent-Based Computational Model built on the [Mesa](https://github.com/projec
 
 This computational model was developed and submitted to Dakota State University in partial fulfillment of the requirements for the degree of [Ph.D. Cyber Operations](https://dsu.edu/programs/phdco/index.html).  The dissertation can be downloaded and reviewed [here](https://scholar.dsu.edu/theses/406/).
 
-The Cyber Operations Performance Computational Model is designed to be used alongside the [Cyber Operations Self-Efficacy Scales (COSES)](https://form.jotform.com/230343475113447) (publication pending).  The COSES provides the model users with a behavioral input of operator efficacy used to align simulation results with real-world operator behavioral input.  While this input can be simulated or estimated, the use of the scales is highly recommended.
+The Cyber Operations Performance Computational Model is designed to be used alongside the [Cyber Operations Self-Efficacy Scales (COSES)](https://form.jotform.com/230343475113447) (publication pending).  The COSES provides the model-users with a behavioral input of operator efficacy used to align simulation results with real-world operator behavioral input.  While this input can be simulated or estimated, the use of the scales is highly recommended.
 
 The Cyber Operations Performance Computational Model:
 
